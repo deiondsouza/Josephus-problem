@@ -1,4 +1,4 @@
-// I DON'T UNDERSTAND HOW TO TAKE INPUTS I JAVASCRIPT SMH!
+// I DON'T UNDERSTAND HOW TO TAKE INPUTS IN JAVASCRIPT SMH!
 
 "use strict";
 const ps= require("prompt-sync");
