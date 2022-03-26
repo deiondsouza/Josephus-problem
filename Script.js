@@ -1,8 +1,10 @@
-//Function to find highest power of 2 smaller than or equal to n.
+// I DON'T UNDERSTAND HOW TO TAKE INPUTS I JAVASCRIPT SMH!
 
 "use strict";
 const ps= require("prompt-sync");
 const prompt = ps();
+
+//Function to find highest power of 2 smaller than or equal to n.
 
 function highestPowerof2(n)
    {
